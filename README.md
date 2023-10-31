@@ -74,18 +74,17 @@ accuracy
 # Result
 ![image](https://github.com/Hemasonica774/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118361409/9e942fa2-866c-4138-86e8-5c58d60d98e6)
 
-#data.head()
+# data.head()
 ![image](https://github.com/Hemasonica774/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118361409/fe006057-932e-46b8-88c3-bded7271e4b4)
 
-#data.info()
+# data.info()
 ![image](https://github.com/Hemasonica774/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118361409/8debf9f1-1bb6-4a87-bb7e-7e4ea51fce53)
 
-#data.isnull().sum()
+# data.isnull().sum()
 ![image](https://github.com/Hemasonica774/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118361409/f6244309-d312-47d0-8b34-9edcacf1f1cb)
 
-#Y_prediction value
+# Y_prediction value
 ![image](https://github.com/Hemasonica774/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118361409/27f032aa-788e-4b84-b3d6-8e9c33db147e)
-
 
 # Accuracy value
 ![image](https://github.com/Hemasonica774/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118361409/31dc8b61-078f-49c2-9026-2388ce36b2bf)
